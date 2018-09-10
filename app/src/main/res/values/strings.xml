@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Banco Online</string>
+    <string name="lblMail">Correo Electronico</string>
+    <string name="lblCuit">CUIT / CUIL</string>
+    <string name="lblMondeda">Moneda</string>
+    <string name="lblMontInv">Monto a invetir</string>
+    <string name="lblDiasSel">%03d días seleccionados.</string>
+    <string name="lblInt">$ %.2f de interés.</string>
+    <string name="lblDiasInv">Días de inversión</string>
+    <string name="lblCondiciones">Es obligatorio aceptar las condiciones</string>
+    <string name="lblRend">Rendimiento</string>
+    <string name="BtnAcred">Acreditar en cuenta</string>
+    <string name="BtnPlazo">Hacer plazo fijo</string>
+    <string name="CheckPlazo">Aceptar términos y condiciones</string>
+    <string name="lblAccionVencimientoAcreditar">Acreditar en cuenta</string>
+    <string name="lblAccionVencimientoRenovar">Renovar</string>
+    <string name="lblAvisarVencimiento">Avisar por mail antes del vencimiento</string>
+    <string name="lblMailVacio">ERROR: Inserte un correo electrónico válido</string>
+    <string name="lblCuitVacio">ERROR: Inserte un CUIT/CUIL válido</string>
+    <string name="lblMonto0">ERROR: El monto debe ser mayor que cero</string>
+    <string name="lblMontoVacio">ERROR: El monto debe ser no vacío</string>
+    <string name="lblDias10">ERROR: Los días seleccionados deben ser mayor que diez</string>
+    <string name="lblOptDolar">US$</string>
+    <string name="lblOptPeso">AR$</string>
+</resources>
